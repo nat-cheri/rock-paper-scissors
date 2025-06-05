@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Rock, paper, scissors! To play: https://nat-cheri.github.io/rock-paper-scissors/index.html
